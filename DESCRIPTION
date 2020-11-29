@@ -17,3 +17,5 @@ Imports:
     ggplot2 (>= 3.3.2),
     dplyr (>= 1.0.2),
     stringr (>= 1.4.0)
+URL: https://github.com/SeungMinK/invest
+BugReports: https://github.com/SeungMinK/invest/issues
