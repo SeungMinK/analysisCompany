@@ -6,7 +6,7 @@
 <!-- badges: start -->
 
 <!-- badges: end -->
-
+[Rthone] 2020.11.28~29
 team1997 company inveset project
 https://1997team.shinyapps.io/project/
 
