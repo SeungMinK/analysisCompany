@@ -1,13 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# invest
+# analysisCompany
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 [Rthone] 2020.11.28~29
-team1997 company inveset project <br>
+team1997 company analysisCompany project <br>
 https://1997team.shinyapps.io/project/
 
 ## Installation
