@@ -1,0 +1,19 @@
+Package: invest
+Type: Package
+Title: company inveset data file
+Version: 0.1.0
+Author: 1997team_SeugMinKim
+Maintainer: ksm8797@naver.com
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    tibble,
+    shiny (>= 1.5.0),
+    ggplot2 (>= 3.3.2),
+    dplyr (>= 1.0.2),
+    stringr (>= 1.4.0)
