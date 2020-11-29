@@ -7,7 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of invest is to …
+team1997 company inveset project
+https://1997team.shinyapps.io/project/
 
 ## Installation
 
