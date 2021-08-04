@@ -1,29 +1,17 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# analysisCompany
+# 최근 3년간의 실적자료를 통한 기업분석 홈페이지
 
-<!-- badges: start -->
-
-<!-- badges: end -->
 [Rthone] 2020.11.28~29
 team1997 company analysisCompany project <br>
-https://1997team.shinyapps.io/project/
+url : https://1997team.shinyapps.io/project/
 
-## Installation
 
-You can install the released version of invest from
-[CRAN](https://CRAN.R-project.org) with:
+개발 환경: R studio
+사용 언어 : R(데이터 가공), Python(크롤링)
+사용 기술 : 데이터 시각화, 크롤링
+팀장 : 김승민
+팀원 : 박준혁, 김범진, 김건호
+기간 : 2020.11.28~ 11.29 (해커톤)
 
-``` r
-remotes::install_github("SeungMinK/invest")
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-#library(invest)
-## basic example code
-```
